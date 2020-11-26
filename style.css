@@ -78,3 +78,8 @@ border: 10px solid #1a3dff
 audio{
 padding: 15px;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+p {
+    font-family: 'Comfortaa', cursive;
+}
